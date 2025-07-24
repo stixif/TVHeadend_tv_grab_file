@@ -4,7 +4,7 @@ Simply open a terminal and execute the code below. Set the permissions of the do
 
     cd /usr/bin
     sudo su
-    wget https://raw.githubusercontent.com/b-jesch/tv_grab_file/master/tv_grab_file
+    wget https://raw.githubusercontent.com/stixif/TVHeadend_tv_grab_file/master/tv_grab_file
     chmod a+rx tv_grab_file
     exit
 
